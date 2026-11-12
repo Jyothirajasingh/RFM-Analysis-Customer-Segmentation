@@ -47,5 +47,10 @@ The objective is to generate actionable business insights that can support custo
 
 
 ## Dataset
-The project uses historical online retail transaction data covering two periods: 2009–2010 and 2010–2011.
+
+The project uses historical online retail transaction data covering 2009–2010 and 2010–2011.
+
+**Dataset access: https://drive.google.com/drive/u/0/folders/1Osg6PvZNZwdqcDPR-wgoqc5-93PgZlvJ
+
+The dataset is hosted externally due to its file size. Please download it and update the file path in the notebook before running the analysis.
 
